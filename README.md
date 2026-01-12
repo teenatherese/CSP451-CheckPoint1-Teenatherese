@@ -8,13 +8,13 @@ This project demonstrates Git and GitHub basics for CSP451.
 
 \## Installation
 
-Download or clone the repository.
+Clone the repository and open index.html.
 
 
 
 \## Usage
 
-Open index.html in a browser.
+This website shows a simple HTML, CSS, and JS project.
 
 
 
@@ -23,6 +23,10 @@ Open index.html in a browser.
 Pull requests are welcome.
 
 
+
+\## License
+
+MIT License
 
 
 
