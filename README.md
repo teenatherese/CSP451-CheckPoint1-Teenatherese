@@ -1,7 +1,5 @@
 \# CSP451 Checkpoint 1
 
-
-
 This project demonstrates Git and GitHub basics for CSP451.
 
 
@@ -14,7 +12,7 @@ Clone the repository and open index.html.
 
 \## Usage
 
-This website shows a simple HTML, CSS, and JS project.
+This website shows a simple HTML, CSS and JS project.
 
 
 
@@ -27,6 +25,4 @@ Pull requests are welcome.
 \## License
 
 MIT License
-
-
 
